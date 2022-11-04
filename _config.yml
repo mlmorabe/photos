@@ -4,7 +4,7 @@ title: "Photography"
 # The description of the website
 description: "Photos by Maria Morabe"
 # Keywords/tags for you site.
-keywords: "lens, jeykll-lens, jekyll, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
+keywords: "lens,photography, blog, photography-blog, photo-blog, portfolio"
 # Your copyright message.
 copyright: "Copyright &copy; 2022 - Maria Liana Morabe."
 
@@ -12,20 +12,20 @@ copyright: "Copyright &copy; 2022 - Maria Liana Morabe."
 # 1st heading of the site.
 header: "Photography"
 # 2nd heading/sub heading of the website.
-subheader: "--Maria Morabe--"
+subheader: "shot by Maria Morabe"
 # A description/bio of the website.
 bio: "A collection of photos I've taken."
 social:
   # Your Twitter username.
-  twitter_username: ""
+  twitter_username: "yayforbooks"
   # Your Facebook username.
   facebook_username: ""
   # Your Instagram username.
-  instagram_username: ""
+  instagram_username: "mariang.maarte"
   # GitHub username.
-  github_username: ""
+  github_username: "mlmorabe"
   # Your email address.
-  email: ""
+  email: "standardhonor@gmail.com"
 
 ## Gallery Configuration ##
 # If you modify this, also modify the `default.scope.path` key below.
